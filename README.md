@@ -5,6 +5,8 @@ PC gaming has seen a remarkable surge in popularity over the past decade, driven
 #
 ### Consoles
 
+![PUBG](https://github.com/user-attachments/assets/4573b6fc-d1c3-4a72-8475-d21d83e82ce6)
+
 Gaming consoles have evolved significantly since their inception, shaping the way we play and interact with video games. The earliest gaming consoles, like the Magnavox Odyssey and the Atari 2600, introduced the concept of playing games on a home television. These early devices were simple, with limited graphics and sound capabilities, but they laid the groundwork for future innovations. The introduction of interchangeable cartridges by Atari allowed players to switch games easily, paving the way for a diverse gaming library. This era established the home console as a staple in entertainment, setting the stage for the industry's rapid growth.
 
 The 1990s and early 2000s marked a transformative period for gaming consoles, with companies like Nintendo, Sony, and Sega leading the charge. The Nintendo Entertainment System (NES) and the Sega Genesis brought more advanced graphics, memorable franchises, and improved gameplay mechanics. Sony's entry into the market with the PlayStation in 1994 revolutionized the industry with its use of CD-ROMs, which allowed for larger and more complex games. This period also saw the advent of 3D graphics, with iconic consoles like the Nintendo 64 and the PlayStation 2 delivering groundbreaking games that pushed the boundaries of what was possible. The competition between these major players drove innovation, resulting in a golden age of gaming.
@@ -37,8 +39,6 @@ The influence of retro video games is evident in contemporary game design. Many 
 
 #
 ### Streaming Games
-
-![PUBG](https://github.com/user-attachments/assets/4573b6fc-d1c3-4a72-8475-d21d83e82ce6)
 
 Game streaming has revolutionized the way players access and experience video games, removing the need for high-end hardware and making gaming more accessible than ever. Services like NVIDIA GeForce Now, Google Stadia, and Microsoft xCloud allow gamers to stream their favorite titles directly to their devices, whether it's a low-spec laptop, tablet, or smartphone. This cloud-based approach ensures that games are always up-to-date and eliminates lengthy download times. Moreover, the integration with social features and real-time multiplayer has created a seamless and interactive gaming experience, broadening the reach of gaming to a more diverse and global audience.
 
