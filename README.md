@@ -14,6 +14,8 @@ In recent years, gaming consoles have continued to evolve, embracing new technol
 #
 ### Xbox
 
+![XBOX 360 Inspiration](https://github.com/user-attachments/assets/166bc3df-edb9-42b8-830c-260f13d59b5b)
+
 The design evolution of the Xbox gaming console reflects a journey of technological advancement and aesthetic refinement across its various models. The original Xbox, released in 2001, was a substantial and heavy console, characterized by its iconic green and black color scheme and a prominent "X" logo on the top. Its robust design housed powerful hardware for its time, including an internal hard drive and Ethernet port, features that set it apart from its contemporaries. The original Xbox controller, often referred to as "The Duke," was notably large, catering to American audiences, and featured a distinctive, ergonomic design with an array of buttons and analog sticks that laid the groundwork for future controllers.
 
 The Xbox 360, launched in 2005, marked a significant departure from the original's bulky design. This model was sleeker, more compact, and came in multiple iterations over its lifespan, including the Xbox 360 S and Xbox 360 E. The console featured a white, concave front panel with a prominent ring of light indicating power and connectivity status, which became a visual hallmark of the device. The Xbox 360 controller was refined to be more comfortable and responsive, becoming a favorite among gamers for its ergonomic design. The Xbox 360 also introduced customizable faceplates, allowing users to personalize their consoles, a nod to the growing trend of personal expression in gaming culture.
@@ -37,16 +39,6 @@ The influence of retro video games is evident in contemporary game design. Many 
 ### Streaming Games
 
 Game streaming has revolutionized the way players access and experience video games, removing the need for high-end hardware and making gaming more accessible than ever. Services like NVIDIA GeForce Now, Google Stadia, and Microsoft xCloud allow gamers to stream their favorite titles directly to their devices, whether it's a low-spec laptop, tablet, or smartphone. This cloud-based approach ensures that games are always up-to-date and eliminates lengthy download times. Moreover, the integration with social features and real-time multiplayer has created a seamless and interactive gaming experience, broadening the reach of gaming to a more diverse and global audience.
-
-#
-### Sourceduty Game Development
-
-Sourceduty is making significant contributions to the game development landscape, with a focus on innovative projects that span various genres and platforms. The repository on GitHub showcases a diverse array of game projects, including retro-inspired titles like "Sky Tetris" and "Ocean Invaders," as well as unique concepts such as "Combat Demolition" and "Skateboating." By leveraging open-source code and collaborative development, Sourceduty is fostering a creative and inclusive environment where new ideas can flourish. This commitment to innovation and community-driven development positions Sourceduty as a dynamic and influential player in the gaming industry.
-
-#
-### Game Development Funding
-
-Game development funding is a critical aspect of bringing creative visions to life, encompassing various methods to secure financial support for projects. Developers often rely on multiple sources, including personal savings, angel investors, venture capital, and crowdfunding platforms like Kickstarter or Indiegogo. Grants from government programs and industry-specific funds also provide essential support, especially for innovative or culturally significant projects. Additionally, revenue from early access releases, pre-orders, and microtransactions can fund ongoing development. Effective financial planning and transparent communication with backers are crucial for managing resources and ensuring the successful completion of a game.
 
 #
 
