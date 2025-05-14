@@ -38,6 +38,8 @@ The influence of retro video games is evident in contemporary game design. Many 
 #
 ### Streaming Games
 
+![PUBG](https://github.com/user-attachments/assets/4573b6fc-d1c3-4a72-8475-d21d83e82ce6)
+
 Game streaming has revolutionized the way players access and experience video games, removing the need for high-end hardware and making gaming more accessible than ever. Services like NVIDIA GeForce Now, Google Stadia, and Microsoft xCloud allow gamers to stream their favorite titles directly to their devices, whether it's a low-spec laptop, tablet, or smartphone. This cloud-based approach ensures that games are always up-to-date and eliminates lengthy download times. Moreover, the integration with social features and real-time multiplayer has created a seamless and interactive gaming experience, broadening the reach of gaming to a more diverse and global audience.
 
 #
