@@ -83,3 +83,5 @@ A custom [Gaming OS](https://chatgpt.com/g/g-6828789c828081919a41ef9e55d0a995-ga
 [Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder)
 <br>
 [Game Hacker](https://chatgpt.com/g/g-67558cfe8db88191940babcbda59243e-game-hacker)
+<br>
+[Terminal Gamers](https://chatgpt.com/g/g-682b402f529081918d5212e1f789d2f3-terminal-gamers)
