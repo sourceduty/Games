@@ -85,6 +85,8 @@ A custom gaming OS is not a general operating system but rather a specialized se
 | VROS Autonomous      | Very Large         | 6-8 Years          | Fully immersive OS integrating AI and machine learning, providing personalized VR experiences, real-time environmental adaptation, and AR.      |
 
 #
+![GTA IRL](https://github.com/user-attachments/assets/048fbdd6-f26d-409b-9f8a-e82c55e302ad)
+#
 
 [Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder)
 <br>
