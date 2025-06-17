@@ -93,5 +93,3 @@ A custom gaming OS is not a general operating system but rather a specialized se
 [Game Hacker](https://chatgpt.com/g/g-67558cfe8db88191940babcbda59243e-game-hacker)
 <br>
 [Terminal Gamers](https://chatgpt.com/g/g-682b402f529081918d5212e1f789d2f3-terminal-gamers)
-<br>
-[Plinko Game](https://github.com/sourceduty/Plinko_Game)
