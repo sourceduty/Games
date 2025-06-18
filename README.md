@@ -2,6 +2,8 @@
 
 PC gaming has seen a remarkable surge in popularity over the past decade, driven by advancements in hardware, the proliferation of online multiplayer games, and a vibrant modding community. The flexibility of PC platforms, allowing gamers to customize their setups for optimal performance, has made it a preferred choice for both casual and hardcore gamers. Popular titles like "League of Legends," "Minecraft," and "Cyberpunk 2077" have captivated audiences worldwide, supported by platforms such as Steam and Epic Games Store that offer a vast array of games. The rise of esports and streaming platforms like Twitch has further fueled this growth, making PC gaming a central pillar of the modern entertainment landscape.
 
+[Gamer Shit](https://chatgpt.com/g/g-685342c6d2a48191b4179c8ff38644c5-gamer-shit) is a custom GPT designed to help users plan and organize the perfect set of hand tools for repairing, upgrading, or modding gaming hardware like custom PCs, consoles, and gaming peripherals. Whether you're doing a simple fix, a full teardown, or a high-performance mod, this GPT guides you step-by-step to identify the exact tools you’ll need—from precision screwdrivers and anti-static gear to advanced equipment like soldering irons and multimeters. It also offers smart suggestions for storing and organizing your tools efficiently to keep your workspace clean and functional. Just describe your hardware and project goals, and this GPT will tailor its recommendations for a smooth, safe, and successful session.
+
 #
 
 ![PUBG](https://github.com/user-attachments/assets/4573b6fc-d1c3-4a72-8475-d21d83e82ce6)
