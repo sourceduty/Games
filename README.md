@@ -1,4 +1,5 @@
 ![In-Game Money](https://github.com/user-attachments/assets/46711e74-473d-44a8-8010-6e29c6829a9d)
+![GTA6](https://github.com/user-attachments/assets/f278c2e6-dfa1-4797-926b-185727004f0d)
 
 PC gaming has seen a remarkable surge in popularity over the past decade, driven by advancements in hardware, the proliferation of online multiplayer games, and a vibrant modding community. The flexibility of PC platforms, allowing gamers to customize their setups for optimal performance, has made it a preferred choice for both casual and hardcore gamers. Popular titles like "League of Legends," "Minecraft," and "Cyberpunk 2077" have captivated audiences worldwide, supported by platforms such as Steam and Epic Games Store that offer a vast array of games. The rise of esports and streaming platforms like Twitch has further fueled this growth, making PC gaming a central pillar of the modern entertainment landscape.
 
