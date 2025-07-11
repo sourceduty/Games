@@ -1,3 +1,4 @@
+![Gaming](https://github.com/user-attachments/assets/268096d5-c6f9-4bc2-a273-fd17b1e87bc6)
 ![In-Game Money](https://github.com/user-attachments/assets/46711e74-473d-44a8-8010-6e29c6829a9d)
 ![GTA6](https://github.com/user-attachments/assets/f278c2e6-dfa1-4797-926b-185727004f0d)
 
@@ -36,38 +37,11 @@ In recent years, gaming consoles have continued to evolve, embracing new technol
 ![Gaming OS](https://github.com/user-attachments/assets/da7e9ecd-b1e2-46ad-a4d3-b1fbd76ce07f)
 
 A custom gaming OS is not a general operating system but rather a specialized service aimed at assisting with the design and optimization of gaming-focused operating systems. It helps users fine-tune the development of such systems, advising on key factors like kernel-level optimizations, hardware acceleration, and interface design. The goal of [Gaming OS](https://chatgpt.com/g/g-6828789c828081919a41ef9e55d0a995-gaming-os) is to provide expert-level insights and recommendations for those building or refining an OS with gaming in mind. It can help developers make decisions on which architectural elements to include, from the type of kernel to the way the OS interacts with gaming hardware. Additionally, Gaming OS offers guidance on integrating cutting-edge technologies like ray tracing, AI-driven performance enhancements, and VR/AR support, ensuring the operating system delivers a next-generation gaming experience. While not a standalone OS, Gaming OS is a resource for those looking to create or improve systems designed specifically for gaming purposes.
-
-<br>
-
-| Gaming OS         | Performance Scale (1-10) | Timeframe (Stable Release) | Key Features & Details                                                                 |
-|-------------------|--------------------------|-----------------------------|----------------------------------------------------------------------------------------|
-| Windows 11        | 9                        | 2021                        | DirectStorage, Auto-HDR, extensive game compatibility, Game Mode, wide driver support |
-| SteamOS 3 (Holo)  | 8                        | 2022 (Steam Deck)           | Linux-based, optimized for Steam gaming, Proton for Windows game compatibility        |
-| Pop!_OS (Cosmic)  | 7                        | Ongoing                     | Gaming-ready Linux distro, good GPU support, Flatpak/game store integration            |
-| ChimeraOS         | 7                        | Ongoing                     | Steam Big Picture UI by default, console-like Linux distro for living rooms           |
-| Windows 10 LTSC   | 8                        | 2018 (latest LTSC 2021)     | Lightweight, no bloatware, excellent for dedicated gaming rigs                        |
-| Nobara Project     | 7.5                      | 2022                        | Fedora-based, tuned for gaming (especially Proton and Wine out-of-box)                |
-| Batocera.linux    | 6                        | Ongoing                     | Retro gaming focused, supports emulators, console-like UI                             |
-| Lakka             | 5.5                      | Ongoing                     | Lightweight, retro game console OS, built on RetroArch                                |
-| PlayStation OS    | 9                        | Proprietary                 | Custom FreeBSD-based, low-level optimization for console hardware                     |
-| Xbox OS (One/Series) | 9.5                  | Proprietary                 | Based on Windows NT kernel, deep Xbox Live integration, DirectX-native performance    |
-
 #
 
 ![VROS](https://github.com/user-attachments/assets/1f8d5b9f-ab6d-4b77-aa83-7d29f5d1eb6d)
 
 [VROS](https://chatgpt.com/g/g-682acbc041448191bffba778a9f2ba64-vros) was developed to assist in the development of virtual reality (VR) operating systems. Its purpose is to provide insight and research into the unique challenges and requirements of VR environments, such as latency reduction, motion sickness prevention, real-time processing, and immersive user interfaces. VROS focuses on understanding existing VR platforms like Oculus, SteamVR, and PlayStation VR by analyzing their hardware integration, user interface design, and software ecosystems. It delves into the hardware components like headsets, controllers, and sensors, examining how they interact with the operating system to ensure seamless communication. Additionally, VROS explores the architecture needed for an optimized real-time VR operating system that prioritizes low latency, multi-threading, and memory management, alongside advanced rendering techniques like foveated rendering and spatial audio to reduce computational load. It also looks into software frameworks for VR development, offering scalability, compatibility, and performance optimization tools for developers. Beyond that, VROS investigates safety features to improve comfort, such as adjustable field-of-view settings and real-time health monitoring to mitigate motion sickness. The system supports integration of AI, ML, and AR to create more dynamic, interactive, and responsive VR experiences, while ensuring high performance, security, and user-friendly interactions across diverse VR hardware.
-
-<br>
-
-| VROS OS Name         | Scale              | Timeframe          | Key Details                                                                                                                                      |
-|----------------------|--------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| VROS Core            | Small to Medium    | 1-2 Years          | A basic, minimalistic VR OS aimed at providing a lightweight framework for VR headsets. Focuses on efficient real-time processing and low latency. |
-| VROS Enhanced        | Medium to Large    | 2-4 Years          | Builds on VROS Core, adding support for advanced hardware integrations, enhanced user interfaces, and immersive 3D environments.                 |
-| VROS VR-X            | Large              | 4-6 Years          | A high-performance OS designed for high-end VR setups with multi-user environments, spatial audio, and foveated rendering.                       |
-| VROS NextGen         | Very Large         | 5-7 Years          | Integration of AI and AR with VR for dynamic, real-time interactions and intelligent assistant capabilities. Includes real-time health tracking. |
-| VROS Collaborative   | Medium to Large    | 3-5 Years          | Focuses on seamless multi-user collaboration, social interaction, and shared VR experiences with optimized networking and low-latency.            |
-| VROS Autonomous      | Very Large         | 6-8 Years          | Fully immersive OS integrating AI and machine learning, providing personalized VR experiences, real-time environmental adaptation, and AR.      |
 
 #
 
