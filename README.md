@@ -70,6 +70,14 @@ A custom gaming OS is not a general operating system but rather a specialized se
 | VROS Autonomous      | Very Large         | 6-8 Years          | Fully immersive OS integrating AI and machine learning, providing personalized VR experiences, real-time environmental adaptation, and AR.      |
 
 #
+
+![Mario](https://github.com/user-attachments/assets/6921ec9b-ca0c-498e-a113-6dd928134ae9)
+
+Mario is undeniably the most iconic and recognized Nintendo character, with over 200 games to his name, spanning a wide variety of genres since his debut in Donkey Kong (1981) and later in Super Mario Bros. (1985). These games include platformers, racing games, sports titles, RPGs, and even educational games, demonstrating Mario's versatile appeal. His presence in over 200 titles makes him the centerpiece of the Nintendo brand, far surpassing other characters in terms of appearances and games developed. Mario's popularity stems from his role as a symbol of fun, adventure, and innovation, becoming not just a gaming mascot but a cultural icon. As of today, Mario is considered the most popular and recognizable Nintendo character, often considered the face of the gaming world as a whole, helping Nintendo to expand its influence in the gaming industry since the early days of the NES. His consistent presence in games across generations of consoles solidifies his place as not just Nintendo's mascot but one of the most beloved and enduring video game characters worldwide.
+
+[Mario Fanatic](https://chatgpt.com/g/g-680864f561b48191a068b54ef8aa81cf-mario-fanatic) is a custom GPT developed to generate creative and visually rich prompts inspired by the Super Mario franchise. It helps users transform their ideas into detailed descriptions for fan art creation, particularly for use with AI image generators like DALL·E 3. Whether it's envisioning Mario in futuristic settings, reimagining classic characters in new artistic styles, or creating unique scenes from the Mushroom Kingdom, Mario Fanatic turns imaginative concepts into vivid visual prompts. The tool is perfect for fans, artists, and storytellers looking to explore and create fresh interpretations of the Mario universe.
+
+#
 ![GTA IRL](https://github.com/user-attachments/assets/048fbdd6-f26d-409b-9f8a-e82c55e302ad)
 #
 
